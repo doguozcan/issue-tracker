@@ -1,3 +1,3 @@
 # Issue Tracker
 
-This is the boilerplate for the Issue Tracker project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/issue-tracker
+Issue Tracker is an app that allows users to create, view, update and delete issues. It is built to test my front-end, back-end, and especially testing skills thoroughly. You can visit <a href="https://issue-tracker-ase7.onrender.com/">the live preview</a>
